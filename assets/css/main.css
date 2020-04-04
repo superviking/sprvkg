@@ -198,7 +198,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: #E37200;
 		}
 
 	strong, b {
@@ -843,8 +843,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #E37200;
+			color: #E37200 !important;
 		}
 
 		input[type="submit"].icon,
